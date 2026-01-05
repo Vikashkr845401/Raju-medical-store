@@ -107,7 +107,7 @@ I am sincerely grateful to the team at Androwebs Tech Pvt. Ltd. for their consta
 ![Screenshot 2](./Screenshot%202026-01-05%20052427.png)  
 ![Screenshot 3](./Screenshot%202026-01-05%20052440.png)  
 ![Screenshot 4](./Screenshot%202026-01-05%20052502.png)
-[Screenshot 4](./Screenshot%202026-01-05%20052522.png)
+[Screenshot 5](./Screenshot%202026-01-05%20052522.png)
 
 
 
@@ -136,3 +136,4 @@ If you have any queries regarding medicines or lab tests, feel free to reach out
 
 
 🌐 Website:🔗 https://raju-medical-store-online.vercel.app/
+
