@@ -50,7 +50,7 @@ I am sincerely grateful to the team at Androwebs Tech Pvt. Ltd. for their consta
 
 ---
 
-## 🌐 Live Website - https://vikashkr845401.github.io/Raju-medical-store-/
+## 🌐 Live Website - https://raju-medical-store-online.vercel.app/
 
 🔗 [Click here to visit the live site]
 
@@ -134,4 +134,5 @@ If you have any queries regarding medicines or lab tests, feel free to reach out
 
 📧 Email: vikashkrmth009@gmail.com ✉️
 
-🌐 Website:🔗https://vikashkr845401.github.io/Raju-medical-store-/
+
+🌐 Website:🔗 https://raju-medical-store-online.vercel.app/
